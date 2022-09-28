@@ -37,6 +37,11 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+/renv
+.Rprofile
 
 # configfile
 config.yml
+
+
+
